@@ -1,7 +1,7 @@
 # Introduction
 
 This repository is a home for snippets, tips and tricks and examples of scripting for the [Jenkins Pipeline plugin](https://github.com/jenkinsci/workflow-plugin/blob/master/README.md).  
-Documentation can be found at [here](https://jenkins.io/doc/book/pipeline/jenkinsfile/)
+Documentation can be found at [here](https://jenkins.io/doc/book/pipeline/jenkinsfile/) and [here](http://www.anniehedgie.com/jenkinsfile)
 
 # Layout
 
